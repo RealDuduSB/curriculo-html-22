@@ -1,0 +1,51 @@
+body {
+    background: white;
+
+}
+
+div.geral {
+    justify-content: space-between;
+    border-style: solid;
+}
+
+div.email {
+    border-style: solid;
+    align-items: center;
+    justify-content: center;
+
+}
+
+div.container {
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: flex;
+    justify-content: space-around;
+}
+
+div.fotoperfil {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.formacao {
+    border-style: solid;
+    align-items: baseline;
+    justify-content: center;
+    color: black;
+}
+
+div.topico {
+    padding-left: 20px;
+    color: white;
+    align-items: center;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.726);
+    background-color: rgba(52, 52, 56, 0.616);
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+div.texto {
+    padding-left: 8px;
+    border-left: 6px solid rgb(0, 0, 0);
+    background-color: rgba(211, 211, 211, 0.452);
+}
